@@ -1,25 +1,25 @@
-# husky
+# cat-sky
 
 [![Financial Contributors on Open Collective](https://opencollective.com/husky/all/badge.svg?label=financial+contributors)](https://opencollective.com/husky) [![](https://img.shields.io/npm/dm/husky.svg?style=flat)](https://www.npmjs.org/package/husky) [![Node.js CI](https://github.com/typicode/husky/workflows/Node.js%20CI/badge.svg)](https://github.com/typicode/husky/actions)
 
 > Git hooks made easy
 
-Husky improves your commits and more 🐶 *woof!*
+Cat-sky improves your commits and more 🐶 *woof!*
 
 - [**Documentation v5 (recommended for Open Source and Sponsors)**](https://typicode.github.io/husky)
 - [Documentation v4](https://github.com/typicode/husky/tree/master)
 
-__👋 [Read husky 5 announcement and see what's new](https://dev.to/typicode/what-s-new-in-husky-5-32g5)__
+__👋 [Read cat-sky 5 announcement and see what's new](https://dev.to/typicode/what-s-new-in-husky-5-32g5)__
 
 ---
 
-You're viewing documentation for husky v5, which is free to use in Open Source projects ❤️ and in early access for Sponsors 🎁.
+You're viewing documentation for cat-sky v5, which is free to use in Open Source projects ❤️ and in early access for Sponsors 🎁.
 
 To use this new version at work, you can become a sponsor on [GitHub Sponsors](https://github.com/sponsors/typicode) or [Open Collective](https://opencollective.com/husky) (monthly or yearly donations are supported).
 
-If you can't sponsor Husky, that's okay, [husky v4](https://github.com/typicode/husky/tree/master) is free to use in any project. During the early access, v4 will continue to receive maintainance updates.
+If you can't sponsor cat-sky, that's okay, [cat-sky v4](https://github.com/typicode/husky/tree/master) is free to use in any project. During the early access, v4 will continue to receive maintainance updates.
 
-After the early access, husky v5 will be MIT again.
+After the early access, cat-sky v5 will be MIT again.
 
 ---
 
@@ -42,7 +42,7 @@ After the early access, husky v5 will be MIT again.
 
 ## Individuals
 
-Find Husky helpful? Become a backer and show your appreciation with a monthly donation on [Open Collective](https://opencollective.com/husky). You can also tip with a one-time donation.
+Find cat-sky helpful? Become a backer and show your appreciation with a monthly donation on [Open Collective](https://opencollective.com/husky). You can also tip with a one-time donation.
 
 [![Husky Sponsor](https://opencollective.com/husky/backer/0/avatar)](https://opencollective.com/husky/backer/0/website)
 [![Husky Sponsor](https://opencollective.com/husky/backer/1/avatar)](https://opencollective.com/husky/backer/1/website)
